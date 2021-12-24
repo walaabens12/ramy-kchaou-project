@@ -57,7 +57,7 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Walaa Ben Salah</h1>
+          <h1 className="footer__col1__title">Rami Kchaou</h1>
           <PText>
         
           </PText>
@@ -98,8 +98,8 @@ export default function Footer() {
                 path: 'tel:+26709887',
               },
               {
-                title: 'walabensalah@gmail.com',
-                path: 'mailto:walabensalah@gmail.com',
+                title: 'ramykchaou@gmail.com',
+                path: 'mailto:ramykchaou@gmail.com',
               },
               {
                 title: 'Tunis , Tunisie Borj Sidreya ',
@@ -130,11 +130,7 @@ export default function Footer() {
       </div>
       <div className="copyright">
         <div className="container">
-          <PText>
-            © 2021 - Ihec Carthage {' '}
-            <a target="_blank" rel="noreferrer" href="http://webcifar.com">
-            </a>{' '}
-          </PText>
+       
         </div>
       </div>
     </FooterStyle>

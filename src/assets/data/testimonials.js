@@ -5,11 +5,11 @@ const testimonials = [
     title: 'CEO',
     org: 'WEB CIFAR',
     desc:
-      'Walaa is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
+      'Ramy is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
   },
   {
     id: 2,
-    name: 'Edem Gheriani',
+    name: 'Salem Dahmani',
     title: 'Co-founder',
     org: 'Kreetive',
     desc:
@@ -17,7 +17,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Bamri Selim',
+    name: 'Salem Dahmani',
     title: 'Marketing Head',
     org: 'Eleven Dawn',
     desc:
